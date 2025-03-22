@@ -1,6 +1,6 @@
 # TrajectoryArt 预编译库文件
 
-本仓库定期发布预编译好的TrajectoryArt动态库文件，可以在[Release](https://github.com/xiaodaxia-8/TrajectoryArtPub/releases)中下载。
+本仓库定期发布预编译好的TrajectoryArt动态库文件，可以在[Release](https://github.com/xiaodaxia-2008/TrajectoryArtPub/releases)中下载。
 
 ![时间最优匀速轨迹](./Doc/toppra_constant_speed.png)
 
