@@ -125,6 +125,10 @@ traj = Trajectory.Create(waypoints, params)
 
 ## 更新日志
 
+### v0.5.0
+
+- 支持为 toppra 算法添加运动学约束，可以根据当前的轨迹位置来计算最大速度，而不是采用全局的最大速度限制
+
 ### v0.4.0
 
 - 增加了 TrajectoryArtWizard 库，支持轨迹规划的交互式界面
